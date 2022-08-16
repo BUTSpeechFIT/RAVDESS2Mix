@@ -25,7 +25,7 @@ $ python prepare_RAVDESS2Mix.py --librispeech-dir LibriSpeech --ravdess-dataset-
 
 ## Citations
 In case of using the dataset please cite:\
-J. Svec, K. Zmolikova, M. Kocour, M. Delcroix, T. Ochiai, L. Mosner, J. Cernocky: [Analysis of impact of emotions on target speech extraction and speech separation](link) [(arXiv version)](link)
+J. Svec, K. Zmolikova, M. Kocour, M. Delcroix, T. Ochiai, L. Mosner, J. Cernocky: [Analysis of impact of emotions on target speech extraction and speech separation](https://arxiv.org/abs/2208.07091).
 ```
 @article{svec2022analysis,
   title={Analysis of impact of emotions on target speech extraction and speech separation},
@@ -34,6 +34,7 @@ J. Svec, K. Zmolikova, M. Kocour, M. Delcroix, T. Ochiai, L. Mosner, J. Cernocky
   year={2022},
 }
 ```
+This work using the Ryerson Audio-Visual Database of Emotional Speech and Song ([RAVDESS](https://zenodo.org/record/1188976#.YvuBWC8Ro6h)) ([article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196391)).
 
 ## License
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
